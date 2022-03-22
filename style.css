@@ -1,0 +1,17 @@
+h1 {
+  color: #50723C;
+}
+
+#contactinfo {
+  float: right;
+}
+#mephotos {
+  display: inline-block;
+}
+#me, #rocio {
+  max-width: 80%;
+}
+
+body {
+  background-color:#86BBD8;
+}
