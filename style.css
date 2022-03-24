@@ -1,3 +1,4 @@
+
 h1 {
   color: #50723C;
 }
@@ -8,10 +9,19 @@ h1 {
 #mephotos {
   display: inline-block;
 }
-#me, #rocio {
-  max-width: 80%;
+head {
+  display: block;
+}
+
+#ideal {
+  float: right;
+  max-height: 500px;
 }
 
 body {
   background-color:#86BBD8;
+  border: 4em;
+  margin: 4em;
+  padding: 0;
+  vertical-align: baseline;
 }
