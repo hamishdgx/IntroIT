@@ -1,23 +1,54 @@
 
 h1 {
-  color: #50723C;
+  color: #3b1c32;
 }
 
 #contactinfo {
   float: right;
 }
-#mephotos {
+
+nav {
+  text-align: center;
+  border: double;
+  background-color: #FAD8D6;
+}
+
+#me, #rocio {
   display: inline-block;
+  width: auto;
+  max-height: 300px; /*it didnt like % */
 }
 head {
   display: block;
 }
-
+header {
+  border-bottom: solid 5px;
+}
+header h1 {
+  border: solid;
+  text-align: center;
+}
+#intro {
+  background-color: #FAD8D6;
+  border: solid;
+}
+#job {
+  background-color: #FAD8D6;
+  border: solid;
+}
 #ideal {
   float: right;
   max-height: 500px;
 }
+#profile {
+  background-color: #FAD8D6;
+  border: solid;
+}
 
+#project {
+  background-color: #FAD8D6;
+  border: solid;
+}
 body {
   background-color:#86BBD8;
   border: 4em;
